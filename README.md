@@ -1,19 +1,24 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
   
 <p>
   <h1 align="center"><b>Hello there, I'm ayznnn 👋</b></h1>
 </p>
 
 ![GitHub](https://komarev.com/ghpvc/?username=AYZNN&style=plastic)
-
+[![Website](https://img.shields.io/website?label=waveshield.xyz&style=plastic&url=http%3A%2F%2Fwaveshield.xyz)](https://waveshield.xyz)
+[![YouTube](https://img.shields.io/youtube/channel/views/UC1bAKyFoshu_MoJNv4dLXHQ?label=youtube&style=plastic)](https://www.youtube.com/channel/UC1bAKyFoshu_MoJNv4dLXHQ)
+[![Discord](https://dcbadge.vercel.app/api/shield/746079627751063644?style=plastic&logoColor=presence&theme=clean)](https://discord.com/users/746079627751063644)
+<br>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Developer
+- 🔭 I’m currently working on WaveShield, the best FiveM anticheat :grin:
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2021 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: ayznnnn#0667
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
@@ -38,18 +43,6 @@
 <br>
 <br>
 
----
-### 🔴 My GitHub Stats
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AYZNN&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYZNN&show_icons=true&hide_border=true&theme=radical">
-
-
-<a href="https://github.com/AYZNN/waveshield">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AYZNN&repo=waveshield&theme=dark" />
-</a>
-
 </br></br></br></br></br></br></br></br></br>
 
 ---
@@ -69,8 +62,3 @@ WaveShield, everytime, everywhere
 #### Thank You 🙏🏼
 
 
-<!--[website]: -->
-[twitter]: https://twitter.com/sumanth_98?s=09
-<!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
-[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
-[linkedin]: https://www.linkedin.com/in/sai-sumanth-talluri-3b7811141
