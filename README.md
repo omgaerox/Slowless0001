@@ -13,6 +13,7 @@
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2021 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: ayznnnn#0667
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
@@ -38,14 +39,6 @@
 <br>
 
 </br></br></br></br></br></br></br></br></br>
-
----
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-WaveShield, everytime, everywhere
-```
-<!--END_SECTION:waka-->
 
 <br>
 
