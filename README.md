@@ -1,17 +1,21 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
   
 <p>
-  <h1 align="center"><b>Hello there, I'm Wait 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm ayznnn 👋</b></h1>
 </p>
 
 ![GitHub](https://komarev.com/ghpvc/?username=AYZNN&style=plastic)
-[![Website](https://img.shields.io/website?label=waveshield.xyz&style=plastic&url=http%3A%2F%2Fwaveshield.xyz)](https://waveshield.xyz)
-[![YouTube](https://img.shields.io/youtube/channel/views/UC1bAKyFoshu_MoJNv4dLXHQ?label=youtube&style=plastic)](https://www.youtube.com/channel/UC1bAKyFoshu_MoJNv4dLXHQ)
-[![Discord](https://dcbadge.vercel.app/api/shield/746079627751063644?style=plastic&logoColor=presence&theme=clean)](https://discord.com/users/746079627751063644)
-<br>
+
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+### I am a Developer
+- 🌱 I’m currently learning MERN Stack Development.
+- 👯 I’m looking to collaborate with other Developers :wink:
+- 🥅 2021 Goals: Contribute to Open Source projects
+- 💬 Ask me about anything, I am happy to help :smile:
+- 🧗 I try to: Go beyond and push the bounds
+- ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 <br>
 
